@@ -1,5 +1,7 @@
 # Welcome to MkDocs
 
+This paragraph is writen by: jamir-antonio
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
